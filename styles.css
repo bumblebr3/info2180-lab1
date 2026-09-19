@@ -1,0 +1,38 @@
+body{
+    background-color: #f7f0de;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1rem;
+}
+h1{
+    font-size: 26px;
+    color: #44CCAC;
+    text-align: center;
+}
+
+h2{
+    font-size: 21px;
+    color: #6060DD;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.photo img{
+    width: 40rem;
+}
+
+
+
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+footer{
+    margin-top: 5rem;
+}
